@@ -9,14 +9,6 @@
     "content_category": null,
     "has_parameters": false
   },
-  "python": {
-    "version": "3.7.6",
-    "package_manager": {
-      "name": "pip",
-      "version": "21.0.1",
-      "package_file": "requirements.txt"
-    }
-  },
   "packages": {
     "BH": {
       "Source": "CRAN",
@@ -893,9 +885,6 @@
     }
   },
   "files": {
-    ".Renviron": {
-      "checksum": "8ebb8637600267755385b6d6ca68d9a3"
-    },
     "brule_wrapper.py": {
       "checksum": "8384da9a9ed3ddde6508457ff67e219f"
     },
@@ -1020,7 +1009,7 @@
       "checksum": "7ef79d7c52847b3140a7dec76506012f"
     },
     "requirements.txt": {
-      "checksum": "090dd834ab4a575dc355b8e98c5bbaa7"
+      "checksum": "3ff5ed1205c424d1af9d58bd5f3c6e64"
     },
     "server.R": {
       "checksum": "8d17692c6296645d7e68b38f8b7f8938"
